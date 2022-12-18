@@ -1,1 +1,3 @@
-console.log('今天天气1234')
+const div = document.createElement('div')
+div.innerHTML = '33'
+document.body.appendChild(div)
