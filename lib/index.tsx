@@ -1,1 +1,1 @@
-console.log('hai')
+console.log('今天天气1234')
