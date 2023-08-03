@@ -1,3 +1,5 @@
-const div = document.createElement('div')
-div.innerHTML = '33'
-document.body.appendChild(div)
+import React from "react";
+import ReactDom from "react-dom";
+import Button from "./Button";
+
+ReactDom.render(<Button></Button>, document.body)
